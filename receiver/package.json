@@ -1,0 +1,22 @@
+{
+  "name": "google-iot-device",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@abandonware/noble": "^1.9.2-5",
+    "jsonwebtoken": "^8.5.1",
+    "mqtt": "^3.0.0",
+    "noble": "^1.9.1",
+    "npm": "^5.8.0",
+    "rpi-dht-sensor": "^0.1.1"
+  },
+  "devDependencies": {},
+  "description": ""
+}
